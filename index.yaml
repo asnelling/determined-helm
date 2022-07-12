@@ -1,0 +1,202 @@
+apiVersion: v1
+entries:
+  determined:
+  - apiVersion: v1
+    appVersion: 0.18.3
+    created: "2022-07-12T10:31:36.960452-05:00"
+    description: A Helm chart for Determined
+    digest: 470702596cfe32ebf29e4b5fe40b28cd6122f6947567824407bf3e0d62b5aef9
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.18.3.tgz
+    version: 0.18.3
+  - apiVersion: v1
+    appVersion: 0.18.2
+    created: "2022-07-12T10:31:36.959893-05:00"
+    description: A Helm chart for Determined
+    digest: e638d19813c7fc93fe6edb4754ecc029c3512f9eee1cc8911b7317f828df6f15
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.18.2.tgz
+    version: 0.18.2
+  - apiVersion: v1
+    appVersion: 0.18.1
+    created: "2022-07-12T10:31:36.959339-05:00"
+    description: A Helm chart for Determined
+    digest: 79ce18457a93ba20b2ef82d44604e833285f937f73c25e791fd6185ddf3f4803
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.18.1.tgz
+    version: 0.18.1
+  - apiVersion: v1
+    appVersion: 0.18.0
+    created: "2022-07-12T10:31:36.958753-05:00"
+    description: A Helm chart for Determined
+    digest: 9b22a70df76e9f0c55d74bd36409d30afaf2c5e01011885f168c45bf39659294
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.18.0.tgz
+    version: 0.18.0
+  - apiVersion: v1
+    appVersion: 0.17.15
+    created: "2022-07-12T10:31:36.95263-05:00"
+    description: A Helm chart for Determined
+    digest: b284a9c04d401ff1653a0ef96990eb361fce98e635c28b664bddfd89d10ef561
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.15.tgz
+    version: 0.17.15
+  - apiVersion: v1
+    appVersion: 0.17.14-dev0
+    created: "2022-07-12T10:31:36.951701-05:00"
+    description: A Helm chart for Determined
+    digest: ecfbb66621ee0c1aaec631b64cffc1ee89c71c22bdbcca261f916d6a1816c5e4
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.14.tgz
+    version: 0.17.14
+  - apiVersion: v1
+    appVersion: 0.17.13-dev0
+    created: "2022-07-12T10:31:36.951071-05:00"
+    description: A Helm chart for Determined
+    digest: d5ddb7f9e3ca6f4f06250870910eaf9cfc60e4b84e23cc00f0e2d517845d975b
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.13.tgz
+    version: 0.17.13
+  - apiVersion: v1
+    appVersion: 0.17.12
+    created: "2022-07-12T10:31:36.950411-05:00"
+    description: A Helm chart for Determined
+    digest: 312ac6fc3c770034896954c8dcab316ce75043ab590b838e713e3e4a6b77a504
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.12.tgz
+    version: 0.17.12
+  - apiVersion: v1
+    appVersion: 0.17.11
+    created: "2022-07-12T10:31:36.949756-05:00"
+    description: A Helm chart for Determined
+    digest: 41070643189e5208d4fd8cc72b00ab49d99baf686084b2e9a577561ecd3bd169
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.11.tgz
+    version: 0.17.11
+  - apiVersion: v1
+    appVersion: 0.17.10
+    created: "2022-07-12T10:31:36.949163-05:00"
+    description: A Helm chart for Determined
+    digest: 74194e3b5222d8d575b70efbf939d646e57f8b02a9c806834a641aeacf51dd86
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.10.tgz
+    version: 0.17.10
+  - apiVersion: v1
+    appVersion: 0.17.9
+    created: "2022-07-12T10:31:36.958134-05:00"
+    description: A Helm chart for Determined
+    digest: 7a01d333a530659a9dd3278ca53dfdac046206d50b0514f027356ba28d53fa36
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.9.tgz
+    version: 0.17.9
+  - apiVersion: v1
+    appVersion: 0.17.8
+    created: "2022-07-12T10:31:36.957516-05:00"
+    description: A Helm chart for Determined
+    digest: b1f76b0c944e95bccddf3ebd3a36e4d7bafdec4fbdb728dcab238329921a0df7
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.8.tgz
+    version: 0.17.8
+  - apiVersion: v1
+    appVersion: 0.17.7
+    created: "2022-07-12T10:31:36.956957-05:00"
+    description: A Helm chart for Determined
+    digest: 745952aba4f2ef93b00249820a968d0dd2fffceec0486afbd97492a4ddc62100
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.7.tgz
+    version: 0.17.7
+  - apiVersion: v1
+    appVersion: 0.17.6
+    created: "2022-07-12T10:31:36.956393-05:00"
+    description: A Helm chart for Determined
+    digest: 24b7d349ccb8019edb406ffd6ccb848380a5d89f44d60a17320a73f9f91e5d5d
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.6.tgz
+    version: 0.17.6
+  - apiVersion: v1
+    appVersion: 0.17.5
+    created: "2022-07-12T10:31:36.955821-05:00"
+    description: A Helm chart for Determined
+    digest: d67db58464d9533b073caf2bc03232729e88628435b1a8a73bde69158deb872b
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.5.tgz
+    version: 0.17.5
+  - apiVersion: v1
+    appVersion: 0.17.4
+    created: "2022-07-12T10:31:36.955238-05:00"
+    description: A Helm chart for Determined
+    digest: 25740a84d1cafad0120c2ee0919c76142f07cbba15d7c26eeedf11f3a8857adc
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.4.tgz
+    version: 0.17.4
+  - apiVersion: v1
+    appVersion: 0.17.3
+    created: "2022-07-12T10:31:36.95458-05:00"
+    description: A Helm chart for Determined
+    digest: 81e0895b9a177e91f2c9d24c7d3f8518a325f188c9c0c4db1b27c0b14f7ec687
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.17.3.tgz
+    version: 0.17.3
+  - apiVersion: v1
+    appVersion: 0.17.2
+    created: "2022-07-12T10:31:36.94856-05:00"
+    description: A Helm chart for Determined
+    digest: 28968f07ee64723d6ccd8d75c96001b4a2fc32e6b6e22f72e5b4f39f86ba52a1
+    home: https://github.com/determined-ai/determined.git
+    icon: https://github.com/determined-ai/determined/blob/master/determined-logo.png?raw=true
+    name: determined
+    urls:
+    - https://asnelling.github.io/determined-helm/determined-0.16.5.tgz
+    version: 0.16.5
+generated: "2022-07-12T10:31:36.947799-05:00"
